@@ -1,4 +1,3 @@
-# CODSOFT_Task2
-Python programming internship
+# Simple Calculator
 
 Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
