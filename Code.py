@@ -1,4 +1,4 @@
-# Simple Arithimetic Calculator - TASK 2
+# Simple Arithimetic Calculator 
 print(""" 
 Enter any operation:- 
     addition -> +
